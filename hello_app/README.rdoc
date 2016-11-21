@@ -3,3 +3,5 @@
 # Rails Tutorial
 
 ## first application, it does fuck all.
+
+[*Google*](http://www.google.com)
